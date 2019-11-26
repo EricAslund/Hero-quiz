@@ -1,0 +1,50 @@
+.Add {
+    width: 350px;
+    margin: 20px auto 20px auto ;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: white;
+}
+input{
+    margin:  1rem 0 1rem 0;
+    border-radius: 5px;
+}
+Button{
+    border-radius: 5px;
+    background-color: rgb(11, 163, 6) !important;
+    border-color: blueviolet !important;
+}
+
+.box___title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title___first{
+    display: flex;
+    align-items: center;
+}
+
+.title___first label{
+    margin-left: 10px;
+}
+.box__input{
+    display: flex;
+    align-items: center; 
+    margin-top: 5px;
+}
+.inputNull{
+ background-color: orange;
+ color: white;
+ text-align: center;
+ border-radius: 5px;
+ border-color: orange;
+}
+.counter{
+    color: blueviolet;
+}
+.pMassage{
+    height: 15px;
+   text-align: center;
+}
